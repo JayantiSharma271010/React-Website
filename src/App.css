@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background: white;
+}
+
+.primary-btn{
+  background: #FDC435;
+}
+
+.secondary-btn{
+  border: 1px solid black;
+  margin-left: 1rem !important;
+}
